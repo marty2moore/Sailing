@@ -1,6 +1,8 @@
 
 ![sail1](https://github.com/user-attachments/assets/380c6662-307b-4faf-9c4f-ac5c59097cfa)
 
+--- 
+
 # Vice President of Ohio State Sailing Club 
 2020-2022
 
@@ -11,6 +13,8 @@
 - Docks in and out event to maintain relationship with local sailing club
 
 ## Sailed 12+ weekends within school year in Midwest Collegiate Sailing Association (MCSA)
+
+---
 
 # US Sailing Level 1 Coaching Certified
 
