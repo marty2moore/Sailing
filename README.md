@@ -6,7 +6,7 @@
 # Vice President of Ohio State Sailing Club 
 2020-2022
 
-## Responsible for maintaining school owned boat fleet.
+## Responsible for maintaining school-owned boat fleet.
 - Boat maintenance: part repair or replacement on budget
 - Haul repair: fiberglass/epoxy
 - Led start and end of season winter/summer storage events
