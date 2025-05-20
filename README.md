@@ -7,10 +7,10 @@
 2020-2022
 
 ## Responsible for maintaining school owned boat fleet.
-- Rigging maintenance: boat part repair or replacement
-- Haul repair: fiberglass/expoxy
-- Start and end of season winter storage events
-- Docks in and out event to maintain relationship with local sailing club
+- Boat maintenance: part repair or replacement on budget
+- Haul repair: fiberglass/epoxy
+- Led start and end of season winter/summer storage events
+- Led docks in and out event to maintain relationship with local sailing club
 
 ## Sailed 12+ weekends within school year in Midwest Collegiate Sailing Association (MCSA)
 
