@@ -1,5 +1,7 @@
+# Sailing
 
-# Vice President of Ohio State Sailing Club (2020-2022)
+# Vice President of Ohio State Sailing Club 
+2020-2022
 
 ## Responsible for maintaining school owned boat fleet.
 - Rigging maintenance: boat part repair or replacement
@@ -11,14 +13,16 @@
 
 # US Sailing Level 1 Coaching Certified
 
-## Cowan Lake Sailing Association (2016-2019)
+## Cowan Lake Sailing Association 
+2016-2019
 - Coached children aged 8-12 racing tactics
 - Perfecting the start of races
 - Upwind/Downwind tactics
 - Rounding marks in a race
 - Race rules and strategy
 
-## Penninsula Yacht Club Lead Instructor (2021)
+## Penninsula Yacht Club Lead Instructor 
+2021
 - Developed and led program to teach kids how to rig and sail Optis and 420s
 
 ![sail1](https://github.com/user-attachments/assets/380c6662-307b-4faf-9c4f-ac5c59097cfa)
