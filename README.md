@@ -10,9 +10,13 @@
 - Start and end of season winter storage events
 - Docks in and out event to maintain relationship with local sailing club
 
-## Sailed 8+ weekends in the fall within Midwest Collegiate Sailing Association
+## Sailed 12+ weekends within school year in Midwest Collegiate Sailing Association (MCSA)
 
 # US Sailing Level 1 Coaching Certified
+
+## Penninsula Yacht Club Lead Instructor 
+2021
+- Developed and led program to teach kids how to rig and sail Optis and 420s
 
 ## Cowan Lake Sailing Association 
 2016-2019
@@ -21,10 +25,6 @@
 - Upwind/Downwind tactics
 - Rounding marks in a race
 - Race rules and strategy
-
-## Penninsula Yacht Club Lead Instructor 
-2021
-- Developed and led program to teach kids how to rig and sail Optis and 420s
 
 ![sail2](https://github.com/user-attachments/assets/a9e8b855-bb78-4861-96a7-2be0b970ebb2)
 
