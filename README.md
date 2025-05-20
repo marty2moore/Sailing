@@ -1,3 +1,4 @@
+
 # Vice President of Ohio State Sailing Club (2020-2022)
 
 ## Responsible for maintaining school owned boat fleet.
