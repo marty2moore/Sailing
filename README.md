@@ -30,6 +30,4 @@
 - Rounding marks in a race
 - Race rules and strategy
 
-![sail2](https://github.com/user-attachments/assets/a9e8b855-bb78-4861-96a7-2be0b970ebb2)
-
 ![sail3](https://github.com/user-attachments/assets/490580a3-c5c0-4cec-8489-64e462f6e13d)
